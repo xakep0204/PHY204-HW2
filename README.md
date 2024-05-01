@@ -7,3 +7,6 @@ Code used for the relaxation method exercise. The relaxation method algorithm is
 ```python3 grapher.py <L= number of points>```
 
 Please uncomment the plt.show() line in the `grapher.py` file to see the plots.
+
+
+Thanks to @adi.kul358 for the help with optimization and debugging.
